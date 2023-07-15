@@ -1,6 +1,7 @@
 # Puppeteer Script - Swap Defillama
 
-This repository contains a Puppeteer script for automating tasks on the Swap Defillama website.
+This repository contains a Puppeteer script for automating tasks on the Swap Defillama website. The task was done for Orange Labs as a part of
+intern hiring process.
 
 ## Prerequisites
 
